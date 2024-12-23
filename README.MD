@@ -41,6 +41,8 @@ Follow these steps to set up the project on your local environment:
 - Performance Metrics: Visualize key metrics such as accuracy, precision, recall, and confusion matrix.
 
 ### Example Results
+Here’s an example of the SVM model’s confusion matrix:
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Contributing
 We welcome contributions to improve this project! To contribute:
