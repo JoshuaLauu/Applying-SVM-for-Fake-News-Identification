@@ -13,7 +13,7 @@ In today's digital era, the rapid spread of misinformation has become a critical
 
 ## Dataset
 
-The dataset used in this project includes news articles from various sources, which have been pre-labeled as "true" or "fake."
+The dataset used in this project includes news articles from various sources, which have been pre-labeled as "true" or "fake".
 
 - Dataset file: `Dataset.rar`
 
@@ -25,3 +25,10 @@ Follow these steps to set up the project on your local environment:
    ```bash
    git clone https://github.com/your-repo-url.git
    cd your-repo-name
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Download and extract the dataset:
+- Download the dataset file Dataset.rar.
+- Extract the contents and place them in a folder named data/.
+
