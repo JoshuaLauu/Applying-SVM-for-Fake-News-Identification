@@ -31,4 +31,23 @@ Follow these steps to set up the project on your local environment:
 3. Download and extract the dataset:
 - Download the dataset file Dataset.rar.
 - Extract the contents and place them in a folder named data/.
+4. Run the notebooks:
+- Open Machine Learning - Compared Models.ipynb or Machine Learning - SVM Model.ipynb in Jupyter Notebook.
+- Execute the cells step-by-step to reproduce the results.
 
+## Features
+- Model Comparison: Evaluate and compare multiple machine learning models to determine the best-performing model for fake news classification.
+- SVM Implementation: Train and optimize an SVM model for accurate classification of fake news.
+- Performance Metrics: Visualize key metrics such as accuracy, precision, recall, and confusion matrix.
+
+### Example Results
+
+## Contributing
+We welcome contributions to improve this project! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature-name
+3. Commit your changes and push the branch to your forked repository.
+4. Open a pull request, and describe the changes you've made.
