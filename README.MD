@@ -1,4 +1,4 @@
-# Applying SVM for Fake News Identification
+# News-Authenticity-Checker
 
 ## Project Overview
 
