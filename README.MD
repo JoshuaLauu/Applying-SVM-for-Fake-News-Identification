@@ -1,4 +1,4 @@
-# News-Authenticity-Checker
+# News Authenticity Checker
 
 ## Project Overview
 
